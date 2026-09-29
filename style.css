@@ -38,7 +38,7 @@ a {
 
 .hero {
 	align-items: flex-end;
-	background-image: linear-gradient(180deg, rgba(16, 45, 58, 0.2) 0%, rgba(16, 45, 58, 0.08) 38%, rgba(16, 45, 58, 0.9) 100%), url("../calima/IMG/CALIMA DARIEN.jpg");
+	background-image: linear-gradient(180deg, rgba(16, 45, 58, 0.2) 0%, rgba(16, 45, 58, 0.08) 38%, rgba(16, 45, 58, 0.9) 100%), url("IMG/CALIMADARIEN.jpg");
 	background-position: center;
 	background-size: cover;
 	color: var(--blanco);
@@ -160,15 +160,15 @@ h2 {
 }
 
 .tarjeta-pueblo {
-	background-image: url("../calima/IMG/PUEBLO MAGICO.jpg");
+	background-image: url("IMG/PUEBLOMAGICO.jpg");
 }
 
 .tarjeta-lago {
-	background-image: url("../calima/IMG/EL LAGO.jpg");
+	background-image: url("IMG/ELLAGO.jpg");
 }
 
 .tarjeta-lugares {
-	background-image: url("../calima/IMG/LUGARES DARIEN.jpg");
+	background-image: url("IMG/LUGARESDARIEN.jpg");
 }
 
 .tarjeta-capa {
